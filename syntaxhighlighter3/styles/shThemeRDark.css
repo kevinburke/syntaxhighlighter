@@ -1,1 +1,113 @@
-.orange{background-color:#e72}.orange:hover,.orange:active{background-color:#df5900}.turquoise{background-color:#00a0b0}.turquoise:hover,.turquoise:active{background-color:#008c9c}.purple{background-color:#9553b0}.purple:hover,.purple:active{background-color:#8b499c}.red{background-color:#cc333f}.red:hover,.red:active{background-color:#b92b33}.dark-blue{background-color:#233255}.dark-blue:hover,.dark-blue:active{background-color:#102a49}.yellow{background-color:#edc951}.yellow:hover,.yellow:active{background-color:#dab545}.syntaxhighlighter{background-color:#233255}.syntaxhighlighter .line.alt1{background-color:#233255}.syntaxhighlighter .line.alt2{background-color:#233255}.syntaxhighlighter .line.highlighted.alt1,.syntaxhighlighter .line.highlighted.alt2{background-color:#323e41}.syntaxhighlighter .line.highlighted.number{color:#fff}.syntaxhighlighter table caption{color:#fff}.syntaxhighlighter .gutter{color:#fff}.syntaxhighlighter .gutter .line{border-right:3px solid #435a5f}.syntaxhighlighter .gutter .line.highlighted{background-color:#435a5f;color:#233255}.syntaxhighlighter.printing .line .content{border:none}.syntaxhighlighter.collapsed{overflow:visible}.syntaxhighlighter.collapsed .toolbar{color:#01d2ff;background:black;border:1px solid #435a5f}.syntaxhighlighter.collapsed .toolbar a{color:#01d2ff}.syntaxhighlighter.collapsed .toolbar a:hover{color:#00a0b0}.syntaxhighlighter .toolbar{color:white;background:#435a5f;border:none}.syntaxhighlighter .toolbar a{color:white}.syntaxhighlighter .toolbar a:hover{color:#e0e8ff}.syntaxhighlighter .plain,.syntaxhighlighter .plain a{color:#fff}.syntaxhighlighter .comments,.syntaxhighlighter .comments a{color:#878a85}.syntaxhighlighter .string,.syntaxhighlighter .string a{color:#00a0b0}.syntaxhighlighter .keyword{color:#01d2ff}.syntaxhighlighter .preprocessor{color:#435a5f}.syntaxhighlighter .variable{color:#e72}.syntaxhighlighter .value{color:#009900}.syntaxhighlighter .functions{color:#e72}.syntaxhighlighter .constants{color:#e0e8ff}.syntaxhighlighter .script{font-weight:bold;color:#01d2ff;background-color:none}.syntaxhighlighter .color1,.syntaxhighlighter .color1 a{color:#e0e8ff}.syntaxhighlighter .color2,.syntaxhighlighter .color2 a{color:white}.syntaxhighlighter .color3,.syntaxhighlighter .color3 a{color:#e72}
+/**
+ * SyntaxHighlighter
+ * http://alexgorbatchev.com/SyntaxHighlighter
+ *
+ * SyntaxHighlighter is donationware. If you are using it, please donate.
+ * http://alexgorbatchev.com/SyntaxHighlighter/donate.html
+ *
+ * @version
+ * 3.0.83 (July 02 2010)
+ * 
+ * @copyright
+ * Copyright (C) 2004-2010 Alex Gorbatchev.
+ *
+ * @license
+ * Dual licensed under the MIT and GPL licenses.
+ */
+.syntaxhighlighter {
+  background-color: #1b2426 !important;
+}
+.syntaxhighlighter .line.alt1 {
+  background-color: #1b2426 !important;
+}
+.syntaxhighlighter .line.alt2 {
+  background-color: #1b2426 !important;
+}
+.syntaxhighlighter .line.highlighted.alt1, .syntaxhighlighter .line.highlighted.alt2 {
+  background-color: #323e41 !important;
+}
+.syntaxhighlighter .line.highlighted.number {
+  color: #b9bdb6 !important;
+}
+.syntaxhighlighter table caption {
+  color: #b9bdb6 !important;
+}
+.syntaxhighlighter .gutter {
+  color: #afafaf !important;
+}
+.syntaxhighlighter .gutter .line {
+  border-right: 3px solid #435a5f !important;
+}
+.syntaxhighlighter .gutter .line.highlighted {
+  background-color: #435a5f !important;
+  color: #1b2426 !important;
+}
+.syntaxhighlighter.printing .line .content {
+  border: none !important;
+}
+.syntaxhighlighter.collapsed {
+  overflow: visible !important;
+}
+.syntaxhighlighter.collapsed .toolbar {
+  color: #5ba1cf !important;
+  background: black !important;
+  border: 1px solid #435a5f !important;
+}
+.syntaxhighlighter.collapsed .toolbar a {
+  color: #5ba1cf !important;
+}
+.syntaxhighlighter.collapsed .toolbar a:hover {
+  color: #5ce638 !important;
+}
+.syntaxhighlighter .toolbar {
+  color: white !important;
+  background: #435a5f !important;
+  border: none !important;
+}
+.syntaxhighlighter .toolbar a {
+  color: white !important;
+}
+.syntaxhighlighter .toolbar a:hover {
+  color: #e0e8ff !important;
+}
+.syntaxhighlighter .plain, .syntaxhighlighter .plain a {
+  color: #b9bdb6 !important;
+}
+.syntaxhighlighter .comments, .syntaxhighlighter .comments a {
+  color: #878a85 !important;
+}
+.syntaxhighlighter .string, .syntaxhighlighter .string a {
+  color: #5ce638 !important;
+}
+.syntaxhighlighter .keyword {
+  color: #5ba1cf !important;
+}
+.syntaxhighlighter .preprocessor {
+  color: #435a5f !important;
+}
+.syntaxhighlighter .variable {
+  color: #ffaa3e !important;
+}
+.syntaxhighlighter .value {
+  color: #009900 !important;
+}
+.syntaxhighlighter .functions {
+  color: #ffaa3e !important;
+}
+.syntaxhighlighter .constants {
+  color: #e0e8ff !important;
+}
+.syntaxhighlighter .script {
+  font-weight: bold !important;
+  color: #5ba1cf !important;
+  background-color: none !important;
+}
+.syntaxhighlighter .color1, .syntaxhighlighter .color1 a {
+  color: #e0e8ff !important;
+}
+.syntaxhighlighter .color2, .syntaxhighlighter .color2 a {
+  color: white !important;
+}
+.syntaxhighlighter .color3, .syntaxhighlighter .color3 a {
+  color: #ffaa3e !important;
+}
