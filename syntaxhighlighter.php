@@ -108,7 +108,7 @@ class SyntaxHighlighter {
 			$this->agshver  = '2.1.364';
 		} else {
 			$this->shfolder = 'syntaxhighlighter3';
-			$this->agshver  = '3.0.9b';
+			$this->agshver  = '3.2.1';
 		}
 
 		// Register brush scripts
