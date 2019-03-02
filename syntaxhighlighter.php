@@ -3,11 +3,10 @@
 **************************************************************************
 
 Plugin Name:  SyntaxHighlighter Evolved
-Plugin URI:   http://www.viper007bond.com/wordpress-plugins/syntaxhighlighter/
-Version:      3.2.1
+Plugin URI:   http://github.com/kevinburke/syntaxhighlighter
+Version:      3.2.2
 Description:  Easily post syntax-highlighted code to your site without having to modify the code at all. Uses Alex Gorbatchev's <a href="http://alexgorbatchev.com/wiki/SyntaxHighlighter">SyntaxHighlighter</a>. <strong>TIP:</strong> Don't use the Visual editor if you don't want your code mangled. TinyMCE will "clean up" your HTML.
-Author:       Alex Mills (Viper007Bond)
-Author URI:   http://www.viper007bond.com/
+Author:       Alex Mills (Viper007Bond) (forked by Kevin Burke)
 
 **************************************************************************
 
