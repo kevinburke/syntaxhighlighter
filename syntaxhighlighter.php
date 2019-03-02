@@ -2,7 +2,7 @@
 
 **************************************************************************
 
-Plugin Name:  SyntaxHighlighter Evolved
+Plugin Name:  SyntaxHighlighter Evolved (fork)
 Plugin URI:   http://github.com/kevinburke/syntaxhighlighter
 Version:      3.2.2
 Description:  Easily post syntax-highlighted code to your site without having to modify the code at all. Uses Alex Gorbatchev's <a href="http://alexgorbatchev.com/wiki/SyntaxHighlighter">SyntaxHighlighter</a>. <strong>TIP:</strong> Don't use the Visual editor if you don't want your code mangled. TinyMCE will "clean up" your HTML.
